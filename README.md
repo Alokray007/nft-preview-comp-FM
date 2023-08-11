@@ -23,11 +23,11 @@ Users should be able to:
 
 ### Screenshot
 
-![mobile](https://raw.github.com/Alokray007/nft-preview-comp-FM/main/screenshot/mobile.png)
-![desktop](https://raw.github.com/Alokray007/nft-preview-comp-FM/main/screenshot/desktop.png)
-![active1](https://raw.github.com/Alokray007/nft-preview-comp-FM/main/screenshot/active1.png)
-![active2](https://raw.github.com/Alokray007/nft-preview-comp-FM/main/screenshot/active2.png)
-![active3](https://raw.github.com/Alokray007/nft-preview-comp-FM/main/screenshot/active3.png)
+![mobile](https://raw.github.com/Alokray007/nft-preview-comp-FM/main/Screenshot/mobile.png)
+![desktop](https://raw.github.com/Alokray007/nft-preview-comp-FM/main/Screenshot/desktop.png)
+![active1](https://raw.github.com/Alokray007/nft-preview-comp-FM/main/Screenshot/active1.png)
+![active2](https://raw.github.com/Alokray007/nft-preview-comp-FM/main/Screenshot/active2.png)
+![active3](https://raw.github.com/Alokray007/nft-preview-comp-FM/main/Screenshot/active3.png)
 
 ### Links
 
