@@ -12,8 +12,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -25,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![mobile](./screenshot/mobile.png)
+![mobile](https/raw.github.com/Alokray007/nft-preview-comp-FM/main/screenshot/mobile.png)
 ![desktop](./screenshot/desktop.png)
 ![active1](./screenshot/active1.png)
 ![active2](./screenshot/active2.png)
