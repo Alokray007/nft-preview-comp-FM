@@ -10,7 +10,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-- [Author](#author)
+- [Author](#author).
 
 ## Overview
 
